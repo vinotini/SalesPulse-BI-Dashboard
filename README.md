@@ -1,62 +1,76 @@
 # SalesPulse BI Dashboard 📊
 
-A professional Power BI dashboard that provides a 360° view of sales and marketing performance, helping stakeholders make informed decisions based on key metrics, trends, and visual insights.
+An interactive Power BI dashboard analyzing Super Store sales and marketing performance. This report visualizes regional trends, customer segments, shipping methods, and product performance to empower data-driven decisions.
 
-## 🔍 Overview
+![Dashboard Screenshot](Screenshot-2025-08-05-111527.png)
 
-**SalesPulse** is a Power BI report designed to analyze sales and marketing data interactively. It enables data-driven decision-making by visualizing KPIs, revenue trends, customer segments, regional performance, and more.
+---
 
-## 📁 File Included
+## 📌 Project Summary
 
-- `salespulse_dashboard.pbix` — Main Power BI project file.
+**SalesPulse BI Dashboard** provides a comprehensive visual analysis of a Super Store’s sales and marketing data. It covers sales trends, profit metrics, regional and segment-based insights, shipping category comparisons, and product category performance using intuitive charts and filters.
+
+---
 
 ## 📊 Key Features
 
-- 📈 **Total Sales & Revenue Analysis**
-- 🌍 **Geographical Sales Distribution**
-- 🎯 **Marketing Campaign Impact**
-- 🧭 **Monthly/Quarterly Sales Trends**
-- 📌 **Top Customers & Products**
-- 🕵️‍♀️ **Sales Funnel & Conversion Rate**
-- 🧮 **Dynamic Filters and Slicers** for Region, Time Period, and Product Category
+- 📍 **Sales & Profit Overview:** Total Sales ($1.57M), Quantity (22K), Profit ($175.26K), and Avg. Delivery Time.
+- 📈 **Monthly Trends:** Year-over-Year analysis of monthly sales and profit (2019 vs 2020).
+- 🗺️ **Geo Insights:** Sales and profit breakdown by U.S. states via an interactive map.
+- 🧩 **Segmentation Visuals:**
+  - By Region (Central, East, South, West)
+  - By Segment (Consumer, Corporate, Home Office)
+  - By Payment Mode (Cards, COD, Online)
+- 🚚 **Shipping Analysis:** Ship category distribution (Standard, Second Class, First Class, Same Day).
+- 🛍️ **Product Insights:**
+  - Sales by Product Category (Furniture, Office Supplies, Technology)
+  - Top Sub-Categories (Phones, Chairs, Binders)
 
-## 🗂️ Data Source
+---
 
-- Sample anonymized sales & marketing dataset (e.g., CSV/Excel file).
-- Cleaned and transformed using Power BI Query Editor.
-- DAX formulas used for KPIs, YOY growth, and calculated metrics.
+## 📂 Files in this Repository
 
-## 💡 Insights Provided
+- `salespulse_dashboard.pbix` — Main Power BI project file.
+- `Screenshot-2025-08-05-111527.png` — Dashboard preview image.
+- `README.md` — Project documentation (this file).
 
-- Which products generate the most revenue?
-- Which regions perform best or need attention?
-- What’s the ROI of specific marketing campaigns?
-- How has sales trended over time?
+---
 
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- DAX (Data Analysis Expressions)
-- Power Query M Language
+- **Power Query** for data transformation
+- **DAX** (Data Analysis Expressions) for KPIs & calculated columns
+- **Custom Themes** and intuitive UX
 
-## 📌 How to View
+---
 
-1. Download the `.pbix` file.
+## 🧠 Business Questions Answered
+
+- What are the most profitable customer segments and regions?
+- How do shipping modes affect order volume and delivery times?
+- Which categories and sub-categories generate the most revenue?
+- How has performance changed year-over-year?
+
+---
+
+## 👩‍💻 How to Run
+
+1. Clone this repository or download the `.pbix` file.
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
-3. Interact with filters, visuals, and KPIs.
+3. Interact with filters, slicers, and visuals to explore the insights.
 
-## 📷 Dashboard Preview
-
-> _You can add a screenshot of your dashboard here!_  
-> Upload it to the repo and use:  
-> `![Dashboard Screenshot](dashboard-preview.png)`
+---
 
 ## 📢 Author
 
 **Vinotini Uthirapathy**  
-_Data Analyst & Business Intelligence Enthusiast_
+_Data Analyst & Business Intelligence Learner_  
+📍 India | 💬 [Let’s connect on LinkedIn](https://www.linkedin.com)
 
 ---
 
-> _Feel free to ⭐ the repo if you find this useful!_
+> ⭐ If you like this dashboard, give it a star!  
+> 💼 Feel free to use this in your portfolio with credit.
+
 
