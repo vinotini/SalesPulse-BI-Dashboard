@@ -1,76 +1,70 @@
 # SalesPulse BI Dashboard 📊
 
-An interactive Power BI dashboard analyzing Super Store sales and marketing performance. This report visualizes regional trends, customer segments, shipping methods, and product performance to empower data-driven decisions.
-
-![Dashboard Screenshot](Screenshot-2025-08-05-111527.png)
+An interactive Power BI dashboard that visualizes Super Store sales and marketing performance across regions, customer segments, shipping methods, and product categories. Built using Power BI Desktop with dynamic filters, custom visuals, and insightful KPIs.
 
 ---
 
-## 📌 Project Summary
+## 🧠 Project Summary
 
-**SalesPulse BI Dashboard** provides a comprehensive visual analysis of a Super Store’s sales and marketing data. It covers sales trends, profit metrics, regional and segment-based insights, shipping category comparisons, and product category performance using intuitive charts and filters.
+**SalesPulse BI Dashboard** provides a 360° overview of a retail business’s sales and marketing performance. It enables key stakeholders to make informed decisions using clear visualizations and business insights across time, geography, customer profiles, and product lines.
 
 ---
 
-## 📊 Key Features
+## 📊 Key Dashboard Features
 
-- 📍 **Sales & Profit Overview:** Total Sales ($1.57M), Quantity (22K), Profit ($175.26K), and Avg. Delivery Time.
-- 📈 **Monthly Trends:** Year-over-Year analysis of monthly sales and profit (2019 vs 2020).
-- 🗺️ **Geo Insights:** Sales and profit breakdown by U.S. states via an interactive map.
-- 🧩 **Segmentation Visuals:**
+- 🧭 **KPI Cards**: Total Sales, Quantity Sold, Profit, Average Delivery Time.
+- 📈 **Monthly Trend Analysis**: YOY comparison of sales and profit across 2019 and 2020.
+- 🗺️ **Regional Performance**: Interactive map showing sales and profit by U.S. states.
+- 🧩 **Customer Segmentation**:
   - By Region (Central, East, South, West)
   - By Segment (Consumer, Corporate, Home Office)
-  - By Payment Mode (Cards, COD, Online)
-- 🚚 **Shipping Analysis:** Ship category distribution (Standard, Second Class, First Class, Same Day).
-- 🛍️ **Product Insights:**
-  - Sales by Product Category (Furniture, Office Supplies, Technology)
-  - Top Sub-Categories (Phones, Chairs, Binders)
+  - By Payment Mode (COD, Online, Cards)
+- 🚚 **Shipping Analysis**: Distribution across Standard, Second Class, First Class, and Same Day.
+- 🛍️ **Product Insights**: Category and sub-category performance, including top-selling items.
 
 ---
 
-## 📂 Files in this Repository
+## 📁 Files Included
 
-- `salespulse_dashboard.pbix` — Main Power BI project file.
-- `Screenshot-2025-08-05-111527.png` — Dashboard preview image.
-- `README.md` — Project documentation (this file).
+- `salespulse_dashboard.pbix` – Power BI report file.
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚙️ Tools & Technologies Used
 
 - **Power BI Desktop**
-- **Power Query** for data transformation
-- **DAX** (Data Analysis Expressions) for KPIs & calculated columns
-- **Custom Themes** and intuitive UX
+- **Power Query Editor** – for data cleaning and transformation
+- **DAX (Data Analysis Expressions)** – for creating custom KPIs and metrics
+- **Custom Visuals & Themes** – for enhanced UX
 
 ---
 
-## 🧠 Business Questions Answered
+## 🔎 Business Questions Answered
 
-- What are the most profitable customer segments and regions?
-- How do shipping modes affect order volume and delivery times?
-- Which categories and sub-categories generate the most revenue?
-- How has performance changed year-over-year?
+- Which products and categories generate the most revenue?
+- How do sales and profit vary by region and segment?
+- What shipping methods are most used and efficient?
+- How has business performance changed over time?
+- Which customer segments are most profitable?
 
 ---
 
-## 👩‍💻 How to Run
+## ▶️ How to View
 
-1. Clone this repository or download the `.pbix` file.
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
-3. Interact with filters, slicers, and visuals to explore the insights.
+1. Download the `.pbix` file from this repository.
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Explore the dashboard interactively using filters and slicers.
 
 ---
 
 ## 📢 Author
 
 **Vinotini Uthirapathy**  
-_Data Analyst & Business Intelligence Learner_  
-📍 India | 💬 [Let’s connect on LinkedIn](https://www.linkedin.com)
+_Data Analyst & Power BI Developer_  
+📍 India _
 
 ---
 
-> ⭐ If you like this dashboard, give it a star!  
-> 💼 Feel free to use this in your portfolio with credit.
-
+> ⭐ If you like this project, give it a star!  
+> 💬 Feel free to fork or reuse for learning and portfolio enhancement.
 
